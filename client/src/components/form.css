@@ -1,0 +1,41 @@
+.bgWhite{
+    background:white;
+    box-shadow:0px 3px 6px 0px #cacaca;
+  }
+  
+  .title{
+    font-weight:600;
+    margin-top:20px;
+    font-size:24px
+  }
+  
+  .customBtn{
+    border-radius:0px;
+    padding:10px;
+  }
+  
+  form input{
+    display:inline-block;
+    width:50px;
+    height:50px;
+    text-align:center;
+  }
+  .otp{
+    width: 60%;
+    min-width: 80vh;
+    min-height: 80vh;
+    margin-top: 50px;
+    margin-left: 42%;
+  }
+  .otp-resend-root{
+display: block;
+  }
+  .otpbtn{
+    margin-top: 53px;
+    margin-left: 61px;
+
+  }
+  .otp h1{
+    margin-left: -26px;
+    margin-bottom: 30px;
+  }

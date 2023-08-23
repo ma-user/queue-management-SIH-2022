@@ -1,0 +1,46 @@
+.green{
+    color:green;
+    font-weight:800;
+    font-size: 23px;
+}
+.itz_bold{
+    font-size:21px;
+    font-weight:400;
+}
+.bwrapper{
+    min-height: 134vh;
+}
+.my-form{
+    width: 100%;
+        margin: auto;
+}
+.show>.dropdown-menu {
+    display: block;
+    position: absolute;
+}
+
+.mybtn{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.time{
+    color:rgb(5, 178, 216);
+}
+.image-text {
+    position: relative;
+    /* text-align: center; */
+    color: white;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    text-transform:capitalize;
+}
+#lab{
+    color:#8f7a7a;
+}
+.plus{
+    font-size:23px;
+}
